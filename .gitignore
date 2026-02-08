@@ -1,0 +1,38 @@
+# Build artifacts
+build/
+*.o
+*.a
+*.so
+*.exe
+weeks
+
+# Editor files
+*~
+*.swp
+*.swo
+.*.sw?
+*.bak
+
+# IDE files
+.vscode/
+.idea/
+*.code-workspace
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Runtime files
+test.line
+*.out
+*.log
+
+# Compiled Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution
+dist/
+*.tar.gz
+*.zip

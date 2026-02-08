@@ -1,0 +1,1 @@
+double Lp (element *, element *);
