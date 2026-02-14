@@ -260,7 +260,7 @@ See main validation documentation for more tools.
 
 ## 📜 License
 
-GPL v2 (same as original WEEKS code)
+Changed to MIT license after uploading to github
 
 ---
 
